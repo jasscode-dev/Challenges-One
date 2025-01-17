@@ -5,15 +5,13 @@ Este projeto faz parte do programa ONE (Oracle Next Education) e foi desenvolvid
 
 - **Adicionar Amigo:** O usuário pode adicionar amigos à lista de sorteio 
 inserindo um nome no campo de entrada.
-![Demonstração do Projeto](assets/adicionar.gif)
+![Demonstração do Projeto](assets/media/adicionar.gif)
 
 - **Sortear Amigo:** Após adicionar amigos, o usuário pode realizar o sorteio, que escolhe aleatoriamente um amigo da lista.
-
-![Demonstração do Projeto](assets/sortear.gif)
+![Demonstração do Projeto](assets/media/sortear.gif)
 
 - **Reiniciar Sorteio:** O usuário pode reiniciar a lista e começar o processo novamente, permitindo adicionar novos amigos.
-
-![Demonstração do Projeto](assets/resetar.gif)
+![Demonstração do Projeto](assets/media/resetar.gif)
 
 
 ## Como Funciona
