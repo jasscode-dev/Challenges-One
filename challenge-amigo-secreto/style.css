@@ -160,3 +160,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-reset{
+    background-color: var(--color-primary);
+    margin-top: 20px;
+}
+.button-reset:hover{
+    background-color: var(--color-primary);
+    opacity: 0.9;
+    
+}
+
