@@ -1,12 +1,20 @@
 # Desafio de Sorteio de Amigos
-
-Este é um desafio de programação que tem como objetivo fortalecer as habilidades de lógica de programação. O código implementa uma aplicação simples para adicionar amigos à lista e realizar um sorteio entre eles. O usuário pode adicionar amigos, realizar o sorteio e reiniciar o processo quando necessário.
+Este projeto faz parte do programa ONE (Oracle Next Education) e foi desenvolvido com base no conceito de Aprendizado Baseado em Desafios. O objetivo é criar uma aplicação funcional e interativa que realiza o sorteio de amigos de maneira justa, aplicando práticas de desenvolvimento de software e estimulando o aprendizado prático por meio da resolução de problemas reais.
 
 ## Funcionalidades
 
-- **Adicionar Amigo:** O usuário pode adicionar amigos à lista de sorteio inserindo um nome no campo de entrada.
+- **Adicionar Amigo:** O usuário pode adicionar amigos à lista de sorteio 
+inserindo um nome no campo de entrada.
+![Demonstração do Projeto](assets/adicionar.gif)
+
 - **Sortear Amigo:** Após adicionar amigos, o usuário pode realizar o sorteio, que escolhe aleatoriamente um amigo da lista.
+
+![Demonstração do Projeto](assets/sortear.gif)
+
 - **Reiniciar Sorteio:** O usuário pode reiniciar a lista e começar o processo novamente, permitindo adicionar novos amigos.
+
+![Demonstração do Projeto](assets/resetar.gif)
+
 
 ## Como Funciona
 
