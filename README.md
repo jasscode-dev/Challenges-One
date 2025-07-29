@@ -22,6 +22,14 @@ Com foco na inclusão e aprendizado contínuo, o ONE prepara você para criar so
      - Sorteio automático com regras inteligentes.  
      - Interface amigável e intuitiva.  
 
+### 2. **[Challenge 2 - ForumHub](https://github.com/codash1/Challenges-One/tree/main/challenge-forum-hub)**  
+    
+   - Uma API REST completa para gerenciamento de fórum desenvolvida em Spring Boot com:  
+     - Autenticação JWT para segurança.  
+     - CRUD completo de tópicos e usuários.  
+     - Validação de dados e persistência com H2 Database.  
+     - Arquitetura MVC com Spring Security.  
+
 Mais desafios incríveis serão adicionados ao longo do programa! 🌟  
 
 ---
